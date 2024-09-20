@@ -1,3 +1,23 @@
+# React CRUD 
+
+## Project Background
+
+This project is done when learning of reactjs.
+
+## Features Summary with UI
+
+* Create Page
+
+![Create](/assets/create.png)
+
+* Update Page
+
+![Update](/assets/update.png)
+
+* Listing Page
+
+![List](/assets/list.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +88,14 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+## Technology
+
+* [ReactJS](https://react.dev/ "ReactJS Home Page")
+* [Bootstrap 5](https://getbootstrap.com/ "Bootstrap Home Page")
+* [fontawesome](https://fontawesome.com/icons/react?f=brands&s=solid "fontawesome Home Page")
+* [Git-SCM](https://git-scm.com/ "Git Home Page")
+
+## Developers
+
+* [Biswajit Debnath](https://www.linkedin.com/in/coderbd/ "Biswajit Debnath's LinkedIn Profile") - Full Stack Java Developer
